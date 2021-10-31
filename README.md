@@ -1,6 +1,6 @@
 - 👋 Olá! eu sou o Nicolas
 - 
-- 👀 Estou interessado a aprender mais sobre esse mundo do desenvolvimento.
+- 👀 Estou interessado a aprender mais sobre esse mundo do desenvolvimento Front-End
 - 🌱 Estudo Engenharia Elétrica, trabalho como Técnico Eletroeletronico e tenho por gosto programação de microcontroladores.
 - 📫 Contate-me no email ncaye135@gmail.com
 
