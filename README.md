@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @caye-nico 
-- 👀 I’m interested in  aprender sobre development
-- 🌱 I’m currently learning programação em  html e C
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👋 Olá! eu sou o Nicolas
+- 
+- 👀 Estou interessado a aprender mais sobre esse mundo do desenvolvimento.
+- 🌱 Estudo Engenharia Eletrica, trabalho como tecnico e tenho por gosto programação de microcontroladores.
+- 📫 Contate-me no email ncaye135@gmail.com
 
-<!---
-caye-nico/caye-nico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/caye-nico">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caye-nico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
