@@ -8,5 +8,5 @@
 <a href="https://github.com/caye-nico">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caye-nico&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caye-nico&layout=compact&langs_count=7&theme=white"/>
- 
+ src:  url('fonts/devicon.eot?rgb6be#iefix') format('embedded-opentype'),
 
