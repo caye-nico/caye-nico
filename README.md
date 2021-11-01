@@ -2,7 +2,7 @@
  
  👀 Estou interessado a aprender mais sobre esse mundo do desenvolvimento Front-End
  <div>
-<i class="devicon-embeddedc-plain"></i> Estudo Engenharia Elétrica, trabalho como Técnico Eletroeletronico e tenho por gosto programação de microcontroladores.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> Estudo Engenharia Elétrica, trabalho como Técnico Eletroeletronico e tenho por gosto programação de microcontroladores.
  </div>
 
 <a href="https://github.com/caye-nico">
