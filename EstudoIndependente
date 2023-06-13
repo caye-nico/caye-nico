@@ -1,0 +1,33 @@
+public class Biblioteca {
+  public static void main (String args[]){
+    String[] livros = new String[15];
+    int totalemprestimos, tdev, cont;
+    cont = 15;
+    String devolucao, retirar;
+    int dia = 1;
+    String dados = "";
+     String menu = "--------Biblioteca--------\n" +
+      "# Opções: \n" +
+      " [A] - Livros Disponíveis \n" +
+      " [B] - Cadastrar Livro \n" +
+      " [C] - Realizar Devolução\n" +
+      " [D] - Gerar Relatório \n" +
+      " [x] - Sair do Sistema\n" +
+      "------------------------------------";
+      char op = ' ';
+    while (op!='x'){
+       op = Entrada.leiaChar(menu);
+      op = Character.toLowerCase(op);
+      if (op=='a'){
+        for (int i=0;i<livros.length;i++){
+        System.out.println(livros[i]);
+        retirar = Entrada.leiaString("Digite o livro da lista que deseja retirar: ");
+        }
+        if (op=='b'){
+            devolucao = Entrada.leiaString("Digite o nome do livro que deseja devolver: ");
+            cont++;
+        }
+      }
+    }
+  }
+}
